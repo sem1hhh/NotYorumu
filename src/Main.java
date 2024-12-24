@@ -37,7 +37,7 @@ public class Main {
 
         //System.out.println("Durumun: " + GecmeDurumu);
         //System.out.println("Ortalaman: " + ortalamasi);
-        System.out.println("Notun: " + not);
+        System.out.println("Notunuz: " + not);
         System.out.println("Isim: " + isim);
 
         konsolVeri.close();
